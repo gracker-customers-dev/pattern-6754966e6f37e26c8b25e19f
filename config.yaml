@@ -32,5 +32,20 @@ categoryTemplatePath: ./templates/categoryTemplate.ejs
 pageTemplatePath: ./templates/pagesTemplate.ejs
 outputDir: ./output
 socialLinks: null
-theme: null
-fonts: null
+theme:
+  primaryColor: '#3498db'
+  secondaryColor: '#2ecc71'
+  backgroundColor: '#ffffff'
+  textColor: '#333333'
+  accentColor: '#e74c3c'
+fonts:
+  - family: Roboto
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Lato
+    weights:
+      - 500
+      - 600
+      - 700
