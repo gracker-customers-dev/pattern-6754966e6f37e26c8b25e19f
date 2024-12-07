@@ -1,0 +1,36 @@
+projectName: >-
+  Implementing FIDO2 Passwordless Authentication: A Comprehensive Guide for
+  <target_audience> Firms
+jsonFilePath: ./input.json
+baseUrl: ''
+portalHeading: ''
+portalDescription: ''
+portalTitle: ''
+searchPlaceholder: ''
+useAlphabetsCategory: true
+homeLink: ''
+logoLink: ''
+ctaText: ''
+aboutLink: ''
+productsLink: ''
+logoImgUrl: ''
+ctaLink: ''
+copyrightText: ''
+faviconUrl: ''
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks: null
+theme: null
+fonts: null
